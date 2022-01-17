@@ -5,4 +5,4 @@ Soy desarrollador Mobile. Actualmente trabajo como Junior Android Developer en W
 Contacto
 </br>
 </br>
-[![Linkedin](https://img.shields.io/badge/-gray?logo=linkedin&label=Perfil%20de%20Linkedin&logoColor=white&labelColor=rgb(10%20102%20194)&color=rgb(10%20102%20194))](www.linkedin.com/in/andres-rangel-dev/)
+www.linkedin.com/in/andres-rangel-dev/
