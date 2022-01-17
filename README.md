@@ -5,4 +5,16 @@ Soy desarrollador Mobile. Actualmente trabajo como Junior Android Developer en W
 Contacto
 </br>
 </br>
+Linkedin
+</br>
 www.linkedin.com/in/andres-rangel-dev/
+</br>
+</br>
+Email
+</br>
+andres.rangel555@gmail.com
+</br>
+</br>
+Teléfono
+</br>
+3112967519
