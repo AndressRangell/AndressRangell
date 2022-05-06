@@ -1,5 +1,4 @@
-Hola, soy Andrés Rangel 👋
-Soy desarrollador Mobile. Actualmente trabajo como Software Developer en Mercado Libre, tengo año y medio de experiencia desarrollando aplicaciones móviles con Java y Kotlin, he trabajado distintos gestores de base de datos relacionales y no relacionales, manejo arquitectura limpia, patrones de diseño (MVP - MVVM) e inyección de dependencias. Actualmente me quiero especializar en Kotlin aplicando tecnologías como Retrofit, Dagger y Jetpack Compose y a futuro afrontar nuevos retos en lenguajes como Swift y Flutter.
+Hola, soy Andrés Rangel 👋  Actualmente trabajo como Mobile Software Developer en Mercado Libre, llevo mas de un año desarrollando aplicaciones móviles con Java y Kotlin, he trabajado distintos gestores de base de datos relacionales y no relacionales, Clean Architecture, consumos con Retrofit, inyección de dependencias con Dagger Hilt y patrones de diseño (MVP - MVVM). Actualmente me quiero especializar en Kotlin aplicando Jetpack Compose y a futuro afrontar nuevos retos en lenguajes como Swift y Flutter.
 
 
 Contacto
